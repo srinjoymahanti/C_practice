@@ -1,3 +1,4 @@
+//Inverted Number Triangle
 #include<stdio.h>
 int main(){
     int n;
